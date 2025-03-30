@@ -6,6 +6,11 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --color-china-rose: 178, 76, 99;
+  --color-mikado-yellow: 251, 195, 55;
+  --color-blue-munsell: 98, 146, 158;
+  --color-cosmic-latte: 255, 251, 235;
+  --color-charcoal: 51, 65, 85;
 }
 
 @media (prefers-color-scheme: dark) {
