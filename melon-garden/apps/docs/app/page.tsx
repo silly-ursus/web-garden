@@ -47,7 +47,7 @@ export default function Page() {
   return (
     <main className="flex flex-row items-center justify-between min-h-screen p-24">
       <div className="z-10 items-center justify-between w-full max-w-5xl font-mono text-sm lg:flex">
-        <div className="bg-red-100 grid mb-32 text-center lg:mb-0 lg:grid-rows-4 lg:text-left">
+        <div className="bg-cosmic-latte text-china-rose grid mb-32 text-center lg:mb-0 lg:grid-rows-4 lg:text-left">
           {LINKS.map(({ title, href, description }) => (
             <Card href={href} key={title} title={title}>
               {description}
